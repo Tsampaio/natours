@@ -271,6 +271,4 @@ exports.getMonthlyPlan = async ( req, res ) => {
       message: error
     });
   }
-}
-
-
+};
